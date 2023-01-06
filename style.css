@@ -1,0 +1,40 @@
+.main{
+    display: flex;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+.title-image{
+    margin-right: 0px;;
+}
+.title{
+    font-size: 35px;
+    color: blue;
+    text-transform: uppercase;
+}
+.sub-title{
+    font-size: 18px;
+    text-align: justify;
+    width: 90%;
+
+}
+.movie-header{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.image{
+    width: 650px;
+    height: 350px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
+.btn{
+    background-color: orange;
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    border-color: white;
+    color: white;
+    font-size:15px;
+}
